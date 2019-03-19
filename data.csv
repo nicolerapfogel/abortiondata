@@ -1,52 +1,52 @@
-State,Restrictions
-AL,9
-AK,0
-AZ,8
-AR,8
-CA,0
-CO,2
-CT,0
-DE,2
-DC,1
-FL,6
-GA,5
-HI,0
-ID,5
-IL,1
-IN,9
-IA,3
-KS,7
-KY,6
-LA,9
-ME,1
-MD,1
-MA,1
-MI,7
-MN,3
-MS,9
-MO,8
-MT,0
-NE,7
-NV,1
-NH,2
-NJ,0
-NM,0
-NY,0
-NC,8
-ND,5
-OH,8
-OK,8
-OR,0
-PA,1
-RI,4
-SC,8
-SD,7
-TN,6
-TX,8
-UT,7
-VT,0
-VA,6
-WA,0
-WV,4
-WI,8
-WY,2
+State,"State funding restricted (Excluding life endangerment, rape, incest)",Any Insurance Restriction,Mandated counseling intended to discourage abortion,"Waiting periods (18 hours+; in person, telemedicine, or unspecified)","Two Trips Required (Counseling must be in person, with waiting period)",1+ Facility Requirement TRAP Laws In Effect,1+ Clinican Requirement TRAP Laws in Effect,Parental Consent for Minors,Mandated Ultrasound,Telemedicine Abortion Medication Prohibited,Total
+Alabama,1,1,1,1,0,1,1,1,1,1,9
+Alaska,0,0,1,0,0,0,0,0,0,0,1
+Arizona,0,1,1,1,1,1,1,1,1,1,9
+Arkansas,1,1,1,1,1,1,1,1,0,1,9
+California,0,0,0,0,0,0,0,0,0,0,0
+Colorado,1,1,0,0,0,0,0,1,0,0,3
+Connecticut,0,0,0,0,0,0,0,0,0,0,0
+Delaware,1,0,0,0,0,0,0,1,0,0,2
+District of Columbia,1,0,0,0,0,0,0,0,0,0,1
+Florida,1,1,0,0,0,1,1,1,1,0,6
+Georgia,1,1,1,1,0,0,0,1,0,0,5
+Hawaii,0,0,0,0,0,0,0,0,0,0,0
+Idaho,1,1,1,1,0,0,0,1,0,0,5
+Illinois,0,0,0,0,0,0,0,1,0,0,1
+Indiana,1,1,1,1,1,1,1,1,1,1,10
+Iowa,1,0,0,0,0,0,0,1,1,0,3
+Kansas,1,1,1,1,0,0,0,1,1,1,7
+Kentucky,1,1,1,1,1,1,0,1,0,0,7
+Louisiana,1,1,1,1,1,1,1,1,1,1,10
+Maine,1,0,0,0,0,0,0,0,0,0,1
+Maryland,0,0,0,0,0,0,0,1,0,0,1
+Massachusetts,0,0,0,0,0,0,0,1,0,0,1
+Michigan,1,1,1,1,0,1,0,1,0,1,7
+Minnesota,0,0,1,1,0,0,0,1,0,0,3
+Mississippi,1,1,1,1,1,1,1,1,1,1,10
+Missouri,1,1,1,1,1,1,1,1,0,1,9
+Montana,0,0,0,0,0,0,0,0,0,0,0
+Nebraska,1,1,1,1,0,1,0,1,0,1,7
+Nevada,1,0,0,0,0,0,0,0,0,0,1
+New Hampshire,1,0,0,0,0,0,0,1,0,0,2
+New Jersey,0,0,0,0,0,0,0,0,0,0,0
+New Mexico,0,0,0,0,0,0,0,0,0,0,0
+New York,0,0,0,0,0,0,0,0,0,0,0
+North Carolina,1,1,1,1,0,1,0,1,1,1,8
+North Dakota,1,1,1,1,0,0,1,1,0,1,7
+Ohio,1,1,1,1,1,1,0,1,1,1,9
+Oklahoma,1,1,1,1,0,1,1,1,0,1,8
+Oregon,0,0,0,0,0,0,0,0,0,0,0
+Pennsylvania,1,1,1,1,0,1,0,1,0,0,1
+Rhode Island,1,1,0,0,0,1,0,1,0,0,4
+South Carolina,1,1,1,1,0,1,1,1,0,1,8
+South Dakota,1,1,1,1,1,1,0,1,0,1,8
+Tennessee,1,1,1,1,1,0,0,1,0,1,7
+Texas,1,1,1,1,0,0,1,1,1,1,8
+Utah,1,1,1,1,1,1,1,1,0,0,8
+Vermont,0,0,0,0,0,0,0,0,0,0,0
+Virginia,1,1,1,1,0,0,0,1,1,0,6
+Washington,0,0,0,0,0,0,0,0,0,0,0
+West Virginia,0,0,1,1,0,0,0,1,0,1,4
+Wisconsin,1,1,1,1,1,0,1,1,1,1,9
+Wyoming,1,0,0,0,0,0,0,1,0,0,2
